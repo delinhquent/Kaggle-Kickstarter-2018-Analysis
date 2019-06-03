@@ -10,12 +10,16 @@ As technology is advancing, we believed that technology projects has a very high
 
 We would also like to look into what are the attributes that will make a kickstarter project succeed. However, other than the pledged and goal amount, Country, Main category and Sub category are not important features in predicting the success of a Kickstarter Project. This was evident by our charts below and feature importance analysis.
 
+# Data source
+https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv
+
 # Data preparation
 1) Created dummy variables for main category, sub category & country
 2) 80% Training and 20% Testing split
 3) Standardizing of features
+4) Created AUC graph to check what's the best depth to prune the tree
 
-# Chosen Model (This is my team's baseline model)
+# Chosen Model
 Decision Tree
 
 # Conclusion based on EDA & Decision Tree Model
