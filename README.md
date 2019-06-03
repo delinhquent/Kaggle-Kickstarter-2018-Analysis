@@ -1,6 +1,4 @@
-# Kaggle-Kickstarter-2018-Analysis
-
-# Hackwagon's DS102 Project
+# Kaggle-Kickstarter-2018-Analysis - Hackwagon's DS102 Project
 This project was a joint effort between me and my cousin, Chong Jun Guo, for our Hackwagon's DS102 project.
 
 # Executive Summary
