@@ -1,9 +1,7 @@
 # Kaggle-Kickstarter-2018-Analysis
 
-# Executive Summary
-As technology is advancing, we believed that technology projects has a very high chance of success (>50%). However, we found that this is not true even when we investigate the sub categories within Technologies.
-
-We would also like to look into what are the attributes that will make a kickstarter project succeed. However, other than the pledged and goal amount, Country, Main category and Sub category are not important features in predicting the success of a Kickstarter Project. This was evident by our charts below and feature importance analysis.
+# Hackwagon's DS102 Project
+This project was a joint effort between me and my cousin, Chong Jun Guo, for our Hackwagon's DS102 project.
 
 # Executive Summary
 As technology is advancing, we believed that technology projects has a very high chance of success (>50%). However, we found that this is not true even when we investigate the sub categories within Technologies.
