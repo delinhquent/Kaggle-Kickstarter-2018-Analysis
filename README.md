@@ -21,4 +21,4 @@ Decision Tree
 # Conclusion based on EDA & Decision Tree Model
 Therefore, we can conclude that the category of the project does not determine the success of the project. 82% of the time, the amount of money pledged determines how successful the project. 
 The remaining 18% of the time, how successful the project is will be based on the amount of money the user has set to target. 
-Country, Main category and Sub category are not important features in predicting the success of a Kickstarter Project. This was also evident by our charts above.
+Country, Main category and Sub category are not important features in predicting the success of a Kickstarter Project. This was also evident by EDA charts.
